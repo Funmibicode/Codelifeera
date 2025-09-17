@@ -273,7 +273,6 @@ ul > li{
   display: flex;
   gap: 15px;
   margin-top: 180px;
-
 }
 .offers{
   display: flex; 
@@ -318,4 +317,5 @@ ul > li{
 .offers:hover .offer_para{
   display: block;
   color: white;
+  background: transparent;
 }
